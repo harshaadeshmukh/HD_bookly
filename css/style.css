@@ -20,8 +20,8 @@
 
 /* define color variables */
 :root{
-    --color: #1b3fc3;
-    --dark-color: #1b3fc3;
+    --color: #f72c69;
+    --dark-color: #f72c69;
     --black: #444;
     --light-black: #666;
     --border: .1rem solid rgba(0, 0, 0, .1);
@@ -883,4 +883,5 @@ section{
         margin: auto;
         width: 100%;
     }
+
 }
