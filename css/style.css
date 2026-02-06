@@ -20,8 +20,8 @@
 
 /* define color variables */
 :root{
-    --color: #f72c69;
-    --dark-color: #f72c69;
+    --color: #1b28d3;
+    --dark-color: #1b28d3;
     --black: #444;
     --light-black: #666;
     --border: .1rem solid rgba(0, 0, 0, .1);
@@ -770,8 +770,8 @@ section{
 }
 
 .loader-container img{
-    width: 7.5rem;
-    height: 7.5rem;
+    width: 20rem;
+
 }
 
 
